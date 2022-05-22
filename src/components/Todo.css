@@ -1,0 +1,35 @@
+.list-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 10px;
+}
+.input-label{
+    display: flex;
+    align-items: center;
+}
+.input{
+    height: 18px;
+    width: 18px;
+    align-self: center;
+    margin-right: 7px;
+    cursor: pointer;
+}
+.label{
+    font-size: 15px;
+    cursor: pointer;
+}
+.button{
+    background-color: transparent;
+    border: 0px;
+}
+.icon{
+    font-size: 19px;
+    cursor: pointer;
+}
+.line-through{
+    text-decoration: line-through;
+}
+.no-line{
+    text-decoration: none;
+}
